@@ -1,0 +1,12 @@
+
+Default: 
+Rød Oppe
+Grøn Nede
+Blå Nede
+
+0 = Blå op
+1 = Rød Ned
+2 = Grøn Op
+3 = Blå Ned
+4 = Rød Op
+5 = Grøn Ned

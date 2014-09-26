@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Sk8Light", "Sk8Light.cproj", "{4E6BAB44-8114-4A03-9B09-6C4836FFA712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6BAB44-8114-4A03-9B09-6C4836FFA712}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4E6BAB44-8114-4A03-9B09-6C4836FFA712}.Debug|AVR.Build.0 = Debug|AVR
+		{4E6BAB44-8114-4A03-9B09-6C4836FFA712}.Release|AVR.ActiveCfg = Release|AVR
+		{4E6BAB44-8114-4A03-9B09-6C4836FFA712}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
